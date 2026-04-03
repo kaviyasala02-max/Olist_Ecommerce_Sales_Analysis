@@ -1,6 +1,6 @@
 # Olist_Ecommerce_Sales_Analysis
 
-##Project Overview
+Project Overview
 
 This project analyzes the Brazilian e-commerce dataset from Kaggle to uncover key business insights using Power BI, SQL, and Excel. The goal is to understand sales performance, customer behavior, and payment trends to support data-driven decision-making.
 
@@ -10,7 +10,7 @@ Contains: Orders, Customers, Products, Payments, Reviews, Sellers Time Period: 2
 
 Tools & Technologies Power BI – Data modeling & visualization SQL – Data extraction & transformation Excel – Data cleaning & preprocessing
 
-##Step-by-Step Process
+Step-by-Step Process
 
 1️⃣ Data Extraction Downloaded dataset from Kaggle Imported CSV files into SQL and Excel for preprocessing
 
@@ -24,7 +24,7 @@ Tools & Technologies Power BI – Data modeling & visualization SQL – Data ext
 
 6️⃣ Data Transformation Created calculated columns and measures: Total Sales Average Order Value Total Orders Customer Count
 
-##Dashboard & Visualizations KPI Cards
+Dashboard & Visualizations KPI Cards
 
 Total Orders: 31K
 
@@ -55,7 +55,7 @@ Insight: Sao Paulo leads in total orders.
 
 7 Time Filter (Slicer) Purpose: Enables dynamic analysis across date ranges
 
-##Key Insights
+Key Insights
 
 Strong dominance of credit card payments
 
